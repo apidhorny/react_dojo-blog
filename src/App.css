@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #333;
+    text-decoration: none;
 }
 
 .App {
@@ -63,4 +64,14 @@
     font-size: 20px;
     color: #2cb67d;
     margin-bottom: 8px;
+}
+
+/* === blog-details === */
+.blog-details__title {
+    font-size: 20px;
+    color: #2cb67d;
+    margin-bottom: 10px;
+}
+.blog-details__body {
+    margin: 20px 0;
 }
